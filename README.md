@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Gerardo 👋
 
-<!--
-**gerardo-tech22/gerardo-tech22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enterprise telecommunications professional building a career in IT infrastructure and cybersecurity.
 
-Here are some ideas to get you started:
+I'm currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University while expanding my hands-on experience through home labs and technical projects. I'm especially interested in networking, enterprise infrastructure, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Working On
+
+- Building and documenting my home network lab
+- Developing hands-on Windows Server and Active Directory skills
+- Expanding my Linux knowledge
+- Learning more about data center and enterprise infrastructure
+- Continuing to explore digital forensics and incident response
+
+## 🎓 Certifications
+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- ITIL 4 Foundation
+
+## 🛠️ Projects
+
+Projects and documentation will be added here as I build them.
+
+## 📚 Currently Learning
+
+Networking • Windows Server • Linux • Enterprise Infrastructure • Cybersecurity
+
+## 🤝 Connect With Me
+
+LinkedIn: [Gerardo Perez](www.linkedin.com/in/gerardo-perez-9447a2199)
