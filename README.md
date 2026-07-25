@@ -29,4 +29,4 @@ Networking • Windows Server • Linux • Enterprise Infrastructure • Cybers
 
 ## 🤝 Connect With Me
 
-LinkedIn: [Gerardo Perez](www.linkedin.com/in/gerardo-perez-9447a2199)
+[LinkedIn – Gerardo Perez](https://www.linkedin.com/in/gerardo-perez-9447a2199/)
